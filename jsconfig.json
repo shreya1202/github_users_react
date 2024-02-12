@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "es5",
+    "jsx": "preserve",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "checkJs": true,
+    "allowJs": true,
+    "baseUrl": "src"
+  },
+  "include": ["src"]
+}
